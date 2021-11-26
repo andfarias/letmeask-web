@@ -17,6 +17,8 @@
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021. Link do projeto no gitHub da Rocketseat [aqui](https://github.com/andfarias/nlw-06-reactjs).
 
+Link do projeto hospedado no firebase: [letmeask-114dc.web.app](https://letmeask-114dc.web.app/).
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
